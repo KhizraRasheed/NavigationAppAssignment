@@ -4,12 +4,12 @@
     <group android:checkableBehavior="single">
     <item
         android:id="@+id/nav_quiz"
-        android:icon="@drawable/book"
-        android:title="Book" />
+
+        android:title="Quiz" />
 
     <item
         android:id="@+id/nav_calc"
-        android:icon="@drawable/return"
-        android:title="Return" />
+
+        android:title="Calculator" />
     </group>
 </menu>
